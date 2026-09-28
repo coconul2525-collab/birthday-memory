@@ -1,0 +1,2 @@
+Rename your photos to photo1.jpg, photo2.jpg, photo3.jpg, photo4.jpg, photo5.jpg and put them in this folder.
+Add your own music as music.mp3 in the main folder.
